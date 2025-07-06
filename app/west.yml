@@ -18,7 +18,6 @@ manifest:
           - hal_cypress
           - hal_infineon
           - hal_microchip
-          - hal_nxp
           - hal_openisa
           - hal_xtensa
           - hal_st
